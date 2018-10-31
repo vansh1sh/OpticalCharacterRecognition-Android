@@ -1,187 +1,196 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:2:1-34:12
-MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/230866893aa40c68a3853808da4eb889/AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:design:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8941eff3d4353e281ff1694a7278900a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/b9eac4277f66ad64b421e82b83ac1b84/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/ae4b82a58169c531a6fb31dee8cc893c/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/b41dc2b85e5118b71fa1b421f534a5f2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/96a72186c4f985cf39f82970ae3cc1f8/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2edb35cdf79566b0e6ce290b222051d3/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/27cf952b112b76fccca5829af1a8cd15/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/b1b68e0fa480e4113a99816c20c0d895/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dcba881ec6947c464c45041224e7c58d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/434dc4ca016b3b6ff775d8ad7571a790/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7aeef38c49790da91e21f8f9a7bab15b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/12dffbd16bf149367d3bb730fba503a0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b551fc51cf996d3fd8501dc10d848fe1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0aa30528d563ea868e696ad64ac0400d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc0245a613d841a26b3e0e08253d8a50/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f96f3bcc9e146c369f059312226a20a9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18e3b66b44b02ca548f8d8690f69ef2b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b9247c06af38de734cf4e7b2e070b8ec/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb38e98002b829fbb7fd8e009bb2ff7b/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/025f89f4c7c451b6911d7d1012015173/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/10237d74bfa68dea5498d5fc24fa70b6/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bb9e22a40aab912c8f54fc63ff338097/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2cd1c87a612bf67e4fc9286f36bacdbf/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:2:1-34:12
-INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:2:1-34:12
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\a9c2a981fceb5566b46bf436f5155666\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\65569e4b6f540951d4c573daeeea0226\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3f457e0a9eb227f82ed6532a9f60523a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\abb25072c7b0633d78fb499621cfc755\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\bed24260ad95c8d7b29cf260eee92a74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\d527cf1f2912eca82bc5672a6e836997\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\83e85a294c7932441a5e84d58615e409\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ea14513769f73ffc7b2e80a7f9856500\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cedb15b32886f5cce1ac90a471e5f218\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\109ea5f914caf8b7e16fe773bf1c22e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\98230cd298543328c38340952daba15f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f99d72f062a02b566352701f8909f644\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cf6e6e29e779cf4521e817bb16f2357c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2580134304935a5a4d06ca11ea300f59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4aab1327486ab1517580bbd63f24494c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ba47e3ea8347f4fe492c72180eb5f272\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\978d24c677226aac842216aee7ab0ac6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fffddd3da3136073cd0cc875ab5964d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\01b97b45dc96aabbbae664f59db26981\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\defabfe266468b95340e880d8c8962a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\07c3218f6328535a67ad7dbfd92a200a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\af1f7b30f535d3f3b61ecd90d81a07ba\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\45a45ad080100737d888dacd16c30650\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b43aa07bcd9d85a0bb83b7e2798992f4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9a333f474a6500c373cd0ffe4d9f6987\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:3:5-30
-		INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:2:1-34:12
-		INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:2:1-34:12
-		INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:4:5-35
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:4:5-35
 uses-feature#android.hardware.camera
-ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:6:5-60
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:6:5-60
 	android:name
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:6:19-57
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:6:19-57
 uses-permission#android.permission.CAMERA
-ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:8:5-65
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:8:5-65
 	android:name
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:8:22-62
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:8:22-62
 application
-ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:10:5-32:19
-MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/230866893aa40c68a3853808da4eb889/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/230866893aa40c68a3853808da4eb889/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/b9eac4277f66ad64b421e82b83ac1b84/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/b9eac4277f66ad64b421e82b83ac1b84/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/ae4b82a58169c531a6fb31dee8cc893c/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/ae4b82a58169c531a6fb31dee8cc893c/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/96a72186c4f985cf39f82970ae3cc1f8/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/96a72186c4f985cf39f82970ae3cc1f8/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2edb35cdf79566b0e6ce290b222051d3/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2edb35cdf79566b0e6ce290b222051d3/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/27cf952b112b76fccca5829af1a8cd15/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/27cf952b112b76fccca5829af1a8cd15/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/b1b68e0fa480e4113a99816c20c0d895/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/b1b68e0fa480e4113a99816c20c0d895/AndroidManifest.xml:22:5-26:19
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:10:5-37:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\a9c2a981fceb5566b46bf436f5155666\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\a9c2a981fceb5566b46bf436f5155666\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3f457e0a9eb227f82ed6532a9f60523a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3f457e0a9eb227f82ed6532a9f60523a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\abb25072c7b0633d78fb499621cfc755\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\abb25072c7b0633d78fb499621cfc755\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\d527cf1f2912eca82bc5672a6e836997\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\d527cf1f2912eca82bc5672a6e836997\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\83e85a294c7932441a5e84d58615e409\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\83e85a294c7932441a5e84d58615e409\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ea14513769f73ffc7b2e80a7f9856500\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ea14513769f73ffc7b2e80a7f9856500\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cedb15b32886f5cce1ac90a471e5f218\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cedb15b32886f5cce1ac90a471e5f218\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\98230cd298543328c38340952daba15f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\98230cd298543328c38340952daba15f\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:16:9-37
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:15:9-37
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:15:9-32
 	android:hardwareAccelerated
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:13:9-43
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:13:9-43
 	android:fullBackupContent
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:12:9-42
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:12:9-42
 	android:icon
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:14:9-38
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:14:9-44
 	android:allowBackup
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:17:9-47
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:17:9-47
 meta-data#com.google.android.gms.version
-ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:18:9-20:69
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/b1b68e0fa480e4113a99816c20c0d895/AndroidManifest.xml:23:9-25:69
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/b1b68e0fa480e4113a99816c20c0d895/AndroidManifest.xml:23:9-25:69
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cedb15b32886f5cce1ac90a471e5f218\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cedb15b32886f5cce1ac90a471e5f218\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:20:13-66
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:20:13-66
 	android:name
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:19:13-58
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:19:13-58
 meta-data#com.google.android.gms.vision.DEPENDENCIES
-ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:21:9-23:35
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:21:9-23:35
 	android:value
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:23:13-32
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:23:13-32
 	android:name
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:22:13-70
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:22:13-70
 activity#com.HPC.project.OcrCaptureActivity
-ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:25:9-31:20
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:25:9-29:20
 	android:label
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:26:13-38
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:27:13-62
 	android:name
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:25:19-68
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:26:13-47
+activity#com.HPC.project.SplashScreen
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:30:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:27:13-30:29
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:29:17-77
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:34:17-77
 	android:name
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:34:27-74
 uses-sdk
-INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
-INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/230866893aa40c68a3853808da4eb889/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision:17.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/230866893aa40c68a3853808da4eb889/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:design:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8941eff3d4353e281ff1694a7278900a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/8941eff3d4353e281ff1694a7278900a/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/b9eac4277f66ad64b421e82b83ac1b84/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/b9eac4277f66ad64b421e82b83ac1b84/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/ae4b82a58169c531a6fb31dee8cc893c/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/ae4b82a58169c531a6fb31dee8cc893c/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/b41dc2b85e5118b71fa1b421f534a5f2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/b41dc2b85e5118b71fa1b421f534a5f2/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/96a72186c4f985cf39f82970ae3cc1f8/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/96a72186c4f985cf39f82970ae3cc1f8/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2edb35cdf79566b0e6ce290b222051d3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2edb35cdf79566b0e6ce290b222051d3/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/27cf952b112b76fccca5829af1a8cd15/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/27cf952b112b76fccca5829af1a8cd15/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/b1b68e0fa480e4113a99816c20c0d895/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/b1b68e0fa480e4113a99816c20c0d895/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dcba881ec6947c464c45041224e7c58d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/dcba881ec6947c464c45041224e7c58d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/434dc4ca016b3b6ff775d8ad7571a790/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/434dc4ca016b3b6ff775d8ad7571a790/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7aeef38c49790da91e21f8f9a7bab15b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/7aeef38c49790da91e21f8f9a7bab15b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/12dffbd16bf149367d3bb730fba503a0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/12dffbd16bf149367d3bb730fba503a0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b551fc51cf996d3fd8501dc10d848fe1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b551fc51cf996d3fd8501dc10d848fe1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0aa30528d563ea868e696ad64ac0400d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/0aa30528d563ea868e696ad64ac0400d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc0245a613d841a26b3e0e08253d8a50/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc0245a613d841a26b3e0e08253d8a50/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f96f3bcc9e146c369f059312226a20a9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f96f3bcc9e146c369f059312226a20a9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18e3b66b44b02ca548f8d8690f69ef2b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/18e3b66b44b02ca548f8d8690f69ef2b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b9247c06af38de734cf4e7b2e070b8ec/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b9247c06af38de734cf4e7b2e070b8ec/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb38e98002b829fbb7fd8e009bb2ff7b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb38e98002b829fbb7fd8e009bb2ff7b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/025f89f4c7c451b6911d7d1012015173/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/025f89f4c7c451b6911d7d1012015173/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/10237d74bfa68dea5498d5fc24fa70b6/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/10237d74bfa68dea5498d5fc24fa70b6/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bb9e22a40aab912c8f54fc63ff338097/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bb9e22a40aab912c8f54fc63ff338097/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2cd1c87a612bf67e4fc9286f36bacdbf/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/apple/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2cd1c87a612bf67e4fc9286f36bacdbf/AndroidManifest.xml:20:5-44
-INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
-INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\a9c2a981fceb5566b46bf436f5155666\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\a9c2a981fceb5566b46bf436f5155666\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\65569e4b6f540951d4c573daeeea0226\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\65569e4b6f540951d4c573daeeea0226\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3f457e0a9eb227f82ed6532a9f60523a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3f457e0a9eb227f82ed6532a9f60523a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\abb25072c7b0633d78fb499621cfc755\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-16.0.0.aar\abb25072c7b0633d78fb499621cfc755\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\bed24260ad95c8d7b29cf260eee92a74\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\bed24260ad95c8d7b29cf260eee92a74\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\d527cf1f2912eca82bc5672a6e836997\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-16.0.0.aar\d527cf1f2912eca82bc5672a6e836997\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\83e85a294c7932441a5e84d58615e409\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\83e85a294c7932441a5e84d58615e409\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ea14513769f73ffc7b2e80a7f9856500\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\ea14513769f73ffc7b2e80a7f9856500\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cedb15b32886f5cce1ac90a471e5f218\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\cedb15b32886f5cce1ac90a471e5f218\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\109ea5f914caf8b7e16fe773bf1c22e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\109ea5f914caf8b7e16fe773bf1c22e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\98230cd298543328c38340952daba15f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\98230cd298543328c38340952daba15f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f99d72f062a02b566352701f8909f644\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f99d72f062a02b566352701f8909f644\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cf6e6e29e779cf4521e817bb16f2357c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\cf6e6e29e779cf4521e817bb16f2357c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2580134304935a5a4d06ca11ea300f59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2580134304935a5a4d06ca11ea300f59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4aab1327486ab1517580bbd63f24494c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4aab1327486ab1517580bbd63f24494c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ba47e3ea8347f4fe492c72180eb5f272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ba47e3ea8347f4fe492c72180eb5f272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\978d24c677226aac842216aee7ab0ac6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\978d24c677226aac842216aee7ab0ac6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fffddd3da3136073cd0cc875ab5964d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\fffddd3da3136073cd0cc875ab5964d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\01b97b45dc96aabbbae664f59db26981\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\01b97b45dc96aabbbae664f59db26981\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\defabfe266468b95340e880d8c8962a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\defabfe266468b95340e880d8c8962a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\07c3218f6328535a67ad7dbfd92a200a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\07c3218f6328535a67ad7dbfd92a200a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\af1f7b30f535d3f3b61ecd90d81a07ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\af1f7b30f535d3f3b61ecd90d81a07ba\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\45a45ad080100737d888dacd16c30650\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\45a45ad080100737d888dacd16c30650\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b43aa07bcd9d85a0bb83b7e2798992f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b43aa07bcd9d85a0bb83b7e2798992f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9a333f474a6500c373cd0ffe4d9f6987\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9a333f474a6500c373cd0ffe4d9f6987\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
-		ADDED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/apple/AndroidStudioProjects/HPC-ocr/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2edb35cdf79566b0e6ce290b222051d3/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\83e85a294c7932441a5e84d58615e409\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2edb35cdf79566b0e6ce290b222051d3/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\83e85a294c7932441a5e84d58615e409\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2edb35cdf79566b0e6ce290b222051d3/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\83e85a294c7932441a5e84d58615e409\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2edb35cdf79566b0e6ce290b222051d3/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\83e85a294c7932441a5e84d58615e409\AndroidManifest.xml:24:13-79

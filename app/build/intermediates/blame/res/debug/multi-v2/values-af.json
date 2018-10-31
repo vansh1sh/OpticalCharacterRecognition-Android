@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/apple/AndroidStudioProjects/HPC-ocr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml",
+            "outputFile": "C:\\Users\\akans\\Desktop\\OpticalCharacterRecognition-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
             "map": [
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb38e98002b829fbb7fd8e009bb2ff7b/res/values-af/values-af.xml",
+                    "source": "C:\\Users\\akans\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c3218f6328535a67ad7dbfd92a200a\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/b1b68e0fa480e4113a99816c20c0d895/res/values-af/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "201",
-                        "endOffsets": "448"
-                    },
-                    "to": {
-                        "startLines": "27",
-                        "startColumns": "4",
-                        "startOffsets": "2978",
-                        "endColumns": "201",
-                        "endOffsets": "3175"
-                    }
-                },
-                {
-                    "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/434dc4ca016b3b6ff775d8ad7571a790/res/values-af/values-af.xml",
+                    "source": "C:\\Users\\akans\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f99d72f062a02b566352701f8909f644\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2edb35cdf79566b0e6ce290b222051d3/res/values-af/values.xml",
+                    "source": "C:\\Users\\akans\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.1.0.aar\\cedb15b32886f5cce1ac90a471e5f218\\res\\values-af\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "201",
+                        "endOffsets": "448"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "2978",
+                        "endColumns": "201",
+                        "endOffsets": "3175"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\akans\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\83e85a294c7932441a5e84d58615e409\\res\\values-af\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

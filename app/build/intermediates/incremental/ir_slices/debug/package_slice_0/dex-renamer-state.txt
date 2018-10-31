@@ -1,0 +1,4 @@
+#Wed Oct 31 15:51:54 IST 2018
+base.0=C\:\\Users\\akans\\Desktop\\OpticalCharacterRecognition-Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

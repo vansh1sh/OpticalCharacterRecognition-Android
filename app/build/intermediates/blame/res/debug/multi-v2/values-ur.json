@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/apple/AndroidStudioProjects/HPC-ocr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+            "outputFile": "C:\\Users\\akans\\Desktop\\OpticalCharacterRecognition-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
             "map": [
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/434dc4ca016b3b6ff775d8ad7571a790/res/values-ur/values-ur.xml",
+                    "source": "C:\\Users\\akans\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f99d72f062a02b566352701f8909f644\\res\\values-ur\\values-ur.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/b1b68e0fa480e4113a99816c20c0d895/res/values-ur/values.xml",
+                    "source": "C:\\Users\\akans\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\07c3218f6328535a67ad7dbfd92a200a\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "102",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4686",
+                        "endColumns": "102",
+                        "endOffsets": "4784"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\akans\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.1.0.aar\\cedb15b32886f5cce1ac90a471e5f218\\res\\values-ur\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2edb35cdf79566b0e6ce290b222051d3/res/values-ur/values.xml",
+                    "source": "C:\\Users\\akans\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\83e85a294c7932441a5e84d58615e409\\res\\values-ur\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -52,23 +69,6 @@
                         "startOffsets": "1878,1988,2184,2312,2425,2624,2753,2895,3239,3450,3562,3765,3895,4100,4299,4392,4489",
                         "endColumns": "109,195,127,112,198,128,141,132,210,111,202,129,204,198,92,96,116",
                         "endOffsets": "1983,2179,2307,2420,2619,2748,2890,3023,3445,3557,3760,3890,4095,4294,4387,4484,4601"
-                    }
-                },
-                {
-                    "source": "/Users/apple/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb38e98002b829fbb7fd8e009bb2ff7b/res/values-ur/values-ur.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "102",
-                        "endOffsets": "153"
-                    },
-                    "to": {
-                        "startLines": "38",
-                        "startColumns": "4",
-                        "startOffsets": "4686",
-                        "endColumns": "102",
-                        "endOffsets": "4784"
                     }
                 }
             ]
