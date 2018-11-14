@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-38:12
 MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\a9c2a981fceb5566b46bf436f5155666\AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:design:27.1.1] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\65569e4b6f540951d4c573daeeea0226\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3f457e0a9eb227f82ed6532a9f60523a\AndroidManifest.xml:2:1-9:12
@@ -29,20 +29,20 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\akans\.gradle\caches
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\45a45ad080100737d888dacd16c30650\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b43aa07bcd9d85a0bb83b7e2798992f4\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9a333f474a6500c373cd0ffe4d9f6987\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
-INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:3:5-30
 		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-38:12
 		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-39:12
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:1-38:12
 		INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:2:11-69
@@ -57,7 +57,7 @@ ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\ma
 	android:name
 		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:8:22-62
 application
-ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:10:5-37:19
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:10:5-36:19
 MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\a9c2a981fceb5566b46bf436f5155666\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-17.0.2.aar\a9c2a981fceb5566b46bf436f5155666\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] C:\Users\akans\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-17.0.2.aar\3f457e0a9eb227f82ed6532a9f60523a\AndroidManifest.xml:7:5-20
@@ -103,25 +103,29 @@ ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\ma
 	android:name
 		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:22:13-70
 activity#com.HPC.project.OcrCaptureActivity
-ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:25:9-29:20
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:25:9-27:74
 	android:label
 		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:27:13-62
 	android:name
 		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:26:13-47
 activity#com.HPC.project.SplashScreen
-ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:30:9-36:20
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:28:9-34:20
 	android:name
-		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:30:19-47
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:28:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:31:13-35:29
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:32:17-69
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:34:17-77
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:34:27-74
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.HPC.project.OptionsScreen
+ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:35:9-60
+	android:name
+		ADDED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml:35:19-48
 uses-sdk
 INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\akans\Desktop\OpticalCharacterRecognition-Android\app\src\main\AndroidManifest.xml

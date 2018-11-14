@@ -24,9 +24,7 @@
 
         <activity
             android:name=".OcrCaptureActivity"
-            android:label="HPC Optical Character Recognition">
-
-        </activity>
+            android:label="HPC Optical Character Recognition"></activity>
         <activity android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -34,6 +32,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".OptionsScreen"></activity>
     </application>
 
 </manifest>

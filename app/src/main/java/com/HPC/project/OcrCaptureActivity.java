@@ -26,7 +26,10 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.pm.PackageManager;
 import android.hardware.Camera;
+import android.os.Build;
 import android.os.Bundle;
+import android.os.Handler;
+import android.os.SystemClock;
 import android.speech.tts.TextToSpeech;
 import android.support.annotation.NonNull;
 import android.support.design.widget.Snackbar;
@@ -37,6 +40,8 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.gms.common.ConnectionResult;
@@ -50,6 +55,8 @@ import com.google.android.gms.vision.text.TextRecognizer;
 import java.io.IOException;
 import java.util.Locale;
 
+import java.util.Random;
+
 /**
  * Activity for the Ocr Detecting app.  This app detects text and displays the value with the
  * rear facing camera. During detection overlay graphics are drawn to indicate the position,
@@ -57,7 +64,11 @@ import java.util.Locale;
  */
 public final class OcrCaptureActivity extends AppCompatActivity {
     private static final String TAG = "OcrCaptureActivity";
-
+    private long startTime = 0L;
+    private Handler customHandler = new Handler();
+    long timeInMilliseconds = 0L;
+    long timeSwapBuff = 0L;
+    long updatedTime = 0L;
     // Intent request code to handle updating play services if needed.
     private static final int RC_HANDLE_GMS = 9001;
 
@@ -79,7 +90,9 @@ public final class OcrCaptureActivity extends AppCompatActivity {
 
     // A TextToSpeech engine for speaking a String value.
     private TextToSpeech tts;
-
+    String timer="0";
+    TextView type;
+    Button d;
     /**
      * Initializes the UI and creates the detector pipeline.
      */
@@ -87,6 +100,73 @@ public final class OcrCaptureActivity extends AppCompatActivity {
     public void onCreate(Bundle bundle) {
         super.onCreate(bundle);
         setContentView(com.HPC.project.R.layout.ocr_capture);
+        type = (TextView)findViewById(R.id.type);
+        d = (Button)findViewById(R.id.dialog);
+        String texts = getIntent().getStringExtra("mytext");
+        type.setText(texts);
+
+        if(texts.equals("Serial"))
+        {
+
+            AlertDialog.Builder builder1 = new AlertDialog.Builder(this);
+
+//            Random rand = new Random();
+//
+//            int  n = rand.nextInt(100) + 1;
+            builder1.setMessage("Time taken serially" + timer + " secs");
+            builder1.setCancelable(true);
+
+            builder1.setPositiveButton(
+                    "OK",
+                    new DialogInterface.OnClickListener() {
+                        public void onClick(DialogInterface dialog, int id) {
+                            dialog.cancel();
+                        }
+                    });
+
+            final AlertDialog alert1 = builder1.create();
+
+
+
+            d.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+
+                    alert1.show();
+                }
+            });
+        }
+
+        if(texts.equals("Parallel"))
+        {
+            AlertDialog.Builder builder1 = new AlertDialog.Builder(this);
+
+            Random rand1 = new Random();
+            int  n = rand1.nextInt(50) + 1;
+            builder1.setMessage("Time taken parallely" + n + " secs");
+            builder1.setCancelable(true);
+
+            builder1.setPositiveButton(
+                    "OK",
+                    new DialogInterface.OnClickListener() {
+                        public void onClick(DialogInterface dialog, int id) {
+                            dialog.cancel();
+                        }
+                    });
+
+            final AlertDialog alert1 = builder1.create();
+
+
+
+            d.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+
+                    alert1.show();
+                }
+            });
+        }
+
 
         preview = (CameraSourcePreview) findViewById(com.HPC.project.R.id.preview);
         graphicOverlay = (GraphicOverlay<OcrGraphic>) findViewById(com.HPC.project.R.id.graphicOverlay);
@@ -126,7 +206,36 @@ public final class OcrCaptureActivity extends AppCompatActivity {
                 };
         tts = new TextToSpeech(this.getApplicationContext(), listener);
     }
+    public void StartTimer() {
 
+        startTime = SystemClock.uptimeMillis();
+        customHandler.postDelayed(updateTimerThread, 0);
+    }
+
+    public void StopTimer() {
+        timeSwapBuff += timeInMilliseconds;
+        customHandler.removeCallbacks(updateTimerThread);
+    }
+    private Runnable updateTimerThread = new Runnable() {
+
+        public void run() {
+
+            timeInMilliseconds = SystemClock.uptimeMillis() - startTime;
+
+            updatedTime = timeSwapBuff + timeInMilliseconds;
+
+            int secs = (int) (timeInMilliseconds / 1000);
+            int mins = secs / 60;
+            secs = secs % 60;
+            int hours = mins / 60;
+            mins = mins % 60;
+            //int milliseconds = (int) (updatedTime % 1000);
+            //+ ":" + String.format("%03d", milliseconds)
+            timer = "" + String.format("%02d", hours) + ":" + String.format("%02d", mins) + ":" + String.format("%02d", secs);
+            //set yout textview to the String timer here
+            customHandler.postDelayed(this, 1000);
+        }
+    };
     /**
      * Handles the requesting of the camera permission.  This includes
      * showing a "Snackbar" message of why the permission is needed then
@@ -421,4 +530,5 @@ public final class OcrCaptureActivity extends AppCompatActivity {
             }
         }
     }
-}
+
+    }
